@@ -7,7 +7,7 @@ public class PersonalLoan {
 		System.out.println("this is flexi loan");
 		System.out.println("this is a Fixed Loan");
 		System.out.println("this is a Free interest loan");
-		
+		System.out.println("Free testing");
 
 	}
 
