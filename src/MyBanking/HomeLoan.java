@@ -8,6 +8,7 @@ public class HomeLoan {
 		System.out.println("this is smart loan");
 		System.out.println("this is mortgage loan");
 		System.out.println("this is a discount loan");
+		System.out.println("My New Branch");
 
 	}
 
